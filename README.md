@@ -1,3 +1,3 @@
 # SpringAspectJLogging
 
-Basic sample of Spring & AspectJ
+Basic sample of Spring AspectJ Logging with annotations
